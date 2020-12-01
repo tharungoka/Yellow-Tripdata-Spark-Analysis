@@ -1,0 +1,6 @@
+Open databricks community edition "community.cloud.databricks.com" 
+Sign up and fill the required details
+In dashboard's side bar open 'clusters' button
+Create a cluster with default settings and name
+After creating cluster open 'Data' button and add the data through 'UI'
+Go to 'WorkSpace' and create a notebook with Python as Default language.
